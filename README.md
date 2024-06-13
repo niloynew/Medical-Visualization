@@ -1,5 +1,6 @@
 # Medical-Visualization
-This repository contains all the assignments I worked on as a part of the seminar for the course "Medical Visualization" from my Master's degree.
+This repository contains all the assignments I worked on as a part of the seminar for the course "Medical Visualization" from my Master's degree. All thanks to  Prof. Dr. Sylvia Saalfeld and Lea Ehrhardt from Technische Universitat at Ilmenau.
+
 The files in this repository were developed using Python in Google Collaboratory. Usage of many important imaging libraries were used. For example, you can find Open3D and Matplotlib for 3D aneurysm rendering. 
 
 Topics covered :
